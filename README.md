@@ -21,3 +21,4 @@ eighteen
 nineteen
 twenty
 twenty-one
+twenty-two
