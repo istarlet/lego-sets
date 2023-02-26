@@ -39,3 +39,4 @@ thirty-six
 thirty-seven
 thirty-eight
 thirty-nine
+forty
