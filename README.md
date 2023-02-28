@@ -41,3 +41,4 @@ thirty-eight
 thirty-nine
 forty
 forty-one
+forty-two
