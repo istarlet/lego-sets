@@ -51,3 +51,4 @@ forty-eight
 forty-nine
 fifty
 fifty-one
+fifty-two
