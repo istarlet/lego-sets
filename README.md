@@ -69,3 +69,4 @@ sixty-six
 sixty-seven
 sixty-eight
 sixty-nine
+seventy
