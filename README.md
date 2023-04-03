@@ -72,3 +72,4 @@ sixty-nine
 seventy
 seventy-one
 seventy-two
+seventy-three
