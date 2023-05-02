@@ -89,3 +89,4 @@ eighty-four
 eighty-five
 eighty-six
 eighty-nine
+ninety
