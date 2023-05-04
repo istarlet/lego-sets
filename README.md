@@ -91,3 +91,4 @@ eighty-six
 eighty-nine
 ninety
 ninety-one
+ninety-two
