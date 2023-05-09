@@ -95,3 +95,4 @@ ninety-two
 ninety-three
 ninety-four
 ninety-five
+ninety-six
