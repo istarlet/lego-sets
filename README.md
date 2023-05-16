@@ -100,3 +100,4 @@ ninety-seven
 ninety-eight
 ninety-nine
 one-hundred
+one-hundred-one
