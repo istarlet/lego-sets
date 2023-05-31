@@ -108,5 +108,6 @@ one-hundred-five
 one-hundred-six
 one-hundred-seven
 one-hundred-eight
-onone-hundrede-hundred-nine
-onehundred
+one-hundred-nine
+one-hundred-ten
+one-hundred-eleven
