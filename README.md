@@ -94,7 +94,7 @@ ninety-one
 ninety-two
 ninety-three
 ninety-four
-ninety-five
+nin ety-five
 ninety-six
 ninety-seven
 ninety-eight
