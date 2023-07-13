@@ -26,7 +26,7 @@ twenty-three
 twenty-four
 twenty-five
 twenty-six
-twenty-seven
+twenty-seveng
 twenty-eight
 twenty-nine
 thirty
