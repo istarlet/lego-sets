@@ -83,7 +83,7 @@ seventy-eight
 seventy-nine
 eighty
 eighty-one
-eighty-two
+eighty-twos
 eighty-three
 eighty-four
 eighty-five
