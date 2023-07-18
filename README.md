@@ -118,7 +118,7 @@ one-hundred-fifteen
 one-hundred-sixteen
 one
 twoft
-threeg
+threegf
 fourgg
 five
 six
